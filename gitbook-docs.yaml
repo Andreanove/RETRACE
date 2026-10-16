@@ -31,13 +31,14 @@ site:
             directory: ./documentation
     - type: section
       key: section-3
-      title: API Reference
-      path: api-reference
-      icon: terminal
+      title: Media
+      path: media
+      description: All Media in Game
+      icon: images
       children:
         - type: space
           key: space-3
-          title: API Reference
+          title: Media
           path: api-reference
           default: true
           content:
