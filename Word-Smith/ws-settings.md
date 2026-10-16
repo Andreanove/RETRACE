@@ -5,8 +5,8 @@ settings of its own, so editing it here changes nothing. It exists so a
 reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
-- vault: retrace
-- written: 2026-10-12 19:41:20
+- vault: RETRACE_Documentation
+- written: 2026-10-16 14:04:33
 
 ```json
 {

@@ -39,7 +39,7 @@ site:
         - type: space
           key: space-3
           title: Media
-          path: api-reference
+          path: media
           default: true
           content:
             directory: ./api-reference
@@ -53,7 +53,7 @@ site:
         - type: space
           key: space-4
           title: Blog
-          path: changelog
+          path: blog
           default: true
           content:
             directory: ./changelog

@@ -11,12 +11,14 @@
             "id": "efaa41fe3618bf48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "docs/table/Drawing 2026-10-14 14.27.56.excalidraw.md"
+                "file": "documentation/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-14 14.27.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -200,6 +202,9 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
+    "documentation/SUMMARY.md",
+    "documentation/README.md",
+    "docs/table/Drawing 2026-10-14 14.27.56.excalidraw.md",
     "project.godot7147626.tmp",
     "project.godot3226968150.tmp",
     "scene/player.tscn3226827471.tmp",
@@ -211,9 +216,7 @@
     "scene/object/table.gd.uid",
     "scene/object/table.gd",
     "scene/object/damage_area_2d.gd.uid",
-    "scene/object/damage_area_2d.gd",
     "docs/table/table.md",
-    "docs/table/Drawing 2026-10-14 14.27.56.excalidraw.md",
     "assets/object/normal_table.png",
     "assets/object/normal_table_horizontal.png",
     "assets/object/flipped_table_up_broken.png",
