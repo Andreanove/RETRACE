@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/SUMMARY.md",
+                "file": "documentation/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "README"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
-    "api-reference/SUMMARY.md",
     "documentation/SUMMARY.md",
+    "api-reference/SUMMARY.md",
     "documentation/README.md",
     "home/README.md",
     "home/SUMMARY.md",
