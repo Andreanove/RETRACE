@@ -48,7 +48,7 @@ site:
       title: Blog
       path: blog
       description: Developer blog about game
-      icon: clock-rotate-left
+      icon: newspaper
       children:
         - type: space
           key: space-4
