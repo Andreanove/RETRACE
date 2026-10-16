@@ -9,5 +9,3 @@
 ## Code and AI
 
 * [Player](code-and-ai/Player.md)
-* [table](code-and-ai/docs/table.md)
-### docs

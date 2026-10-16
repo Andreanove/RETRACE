@@ -23,8 +23,7 @@ layout:
     visible: true
 ---
 
-# Changelog
-
+# Developer Blog
 
 
 {% updates format="full" %}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/SUMMARY.md",
+                "file": "blog/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "README"
             }
           }
         ]
@@ -202,14 +202,24 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
-    "documentation/code-and-ai/Playerrrr.md",
+    "blog/SUMMARY.md",
+    "blog/README.md",
+    "blog/2025/product-update-1.md",
+    "blog/2025/product-update.md",
+    "templates/TEMPLATES.md",
+    "documentation/code-and-ai/Enemy AI.md",
+    "documentation/code-and-ai/docs/table/Take_Cover.md",
+    "documentation/code-and-ai/Images/Take_Cover.png",
+    "documentation/code-and-ai/Images/Take Cover.png",
     "documentation/code-and-ai/Player.md",
+    "documentation/code-and-ai/Images",
+    "blog/2026/product-update-1.md",
+    "blog/2026/product-update.md",
     "documentation/SUMMARY.md",
     "documentation/README.md",
-    "templates/TEMPLATES.md",
+    "documentation/code-and-ai/permissions.md",
     "documentation/code-and-ai/core-concepts.md",
     "templates",
-    "documentation/code-and-ai/permissions.md",
     "api-reference/SUMMARY.md",
     "home/README.md",
     "home/SUMMARY.md",
@@ -224,20 +234,11 @@
     "documentation/code-and-ai",
     "api-reference",
     "media",
-    "blog/2026/product-update-1.md",
-    "blog/2026/product-update.md",
-    "blog/2025/product-update.md",
-    "blog/2025/product-update-1.md",
-    "blog/SUMMARY.md",
-    "blog/README.md",
     "blog/2026",
     "blog/2025",
     "blog",
     "help-center/plans-billing/how-do-i-change-my-plan.md",
-    "help-center/plans-billing/billing-faq.md",
-    "help-center/integrations/why-isnt-my-integration-syncing.md",
     "help-center/plans-billing",
-    "help-center/integrations",
     "assets/object/normal_table.png",
     "assets/object/normal_table_horizontal.png",
     "assets/object/flipped_table_up_broken.png",
@@ -245,8 +246,6 @@
     "assets/object/flipped_table_left_broken.png",
     "assets/object/flipped_table_down_broken.png",
     "assets/object/flipped_table_left.png",
-    "assets/object/flipped_table_down.png",
-    "assets/object/flipped_table_broken.png",
-    "assets/object/flipped_table.png"
+    "assets/object/flipped_table_down.png"
   ]
 }
