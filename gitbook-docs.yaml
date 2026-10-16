@@ -44,13 +44,14 @@ site:
             directory: ./api-reference
     - type: section
       key: section-4
-      title: Changelog
-      path: changelog
+      title: Blog
+      path: blog
+      description: Developer blog about game
       icon: clock-rotate-left
       children:
         - type: space
           key: space-4
-          title: Changelog
+          title: Blog
           path: changelog
           default: true
           content:
