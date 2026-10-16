@@ -4,12 +4,12 @@
 
 ## Game Design
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Getting started](game-design/getting-started.md)
+* [Quickstart](game-design/quickstart.md)
+* [Your first project](game-design/your-first-project.md)
 
 ## Code and AI
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Core concepts](code-and-ai/core-concepts.md)
+* [Workspaces and projects](code-and-ai/workspaces-and-projects.md)
+* [Permissions](code-and-ai/permissions.md)
