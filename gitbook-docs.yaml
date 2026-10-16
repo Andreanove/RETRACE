@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: RETRACE Documentation
+
+structure:
+  - type: space
+    key: retrace-docs
+    title: RETRACE
+    path: retrace
+    default: true
+    content:
+      directory: ./docs
