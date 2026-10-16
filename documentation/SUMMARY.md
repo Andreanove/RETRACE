@@ -4,9 +4,9 @@
 
 ## Game Design
 
-* [Getting started](game-design/getting-started.md)
-* [Quickstart](game-design/quickstart.md)
-* [Your first project](game-design/your-first-project.md)
+* [[Player]]
+* [[Playerrrr]]
+* 
 
 ## Code and AI
 

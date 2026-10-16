@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/README.md",
+                "file": "documentation/SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -202,9 +202,15 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
-    "documentation/SUMMARY.md",
-    "api-reference/SUMMARY.md",
+    "documentation/code-and-ai/Playerrrr.md",
     "documentation/README.md",
+    "templates/TEMPLATES.md",
+    "documentation/code-and-ai/Player.md",
+    "documentation/SUMMARY.md",
+    "documentation/code-and-ai/core-concepts.md",
+    "templates",
+    "documentation/code-and-ai/permissions.md",
+    "api-reference/SUMMARY.md",
     "home/README.md",
     "home/SUMMARY.md",
     "media/SUMMARY.md",
@@ -215,9 +221,6 @@
     "documentation/getting-started/quickstart.md",
     "documentation/getting-started/getting-started.md",
     "documentation/game-design",
-    "documentation/code-and-ai/workspaces-and-projects.md",
-    "documentation/code-and-ai/permissions.md",
-    "documentation/code-and-ai/core-concepts.md",
     "documentation/code-and-ai",
     "api-reference",
     "media",
@@ -233,11 +236,8 @@
     "help-center/plans-billing/how-do-i-change-my-plan.md",
     "help-center/plans-billing/billing-faq.md",
     "help-center/integrations/why-isnt-my-integration-syncing.md",
-    "help-center/integrations/connecting-a-third-party-app.md",
-    "help-center/integrations/api-rate-limits-and-quotas.md",
     "help-center/plans-billing",
     "help-center/integrations",
-    "help-center/getting-started",
     "assets/object/normal_table.png",
     "assets/object/normal_table_horizontal.png",
     "assets/object/flipped_table_up_broken.png",

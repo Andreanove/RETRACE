@@ -5,7 +5,7 @@ icon: hand-wave
 
 # Welcome
 
-Hallo, Di page ini saya akan membahas mengenai dokumentasi game retrace. yang saya pilih untuk dokumentasi ialah Game Design dan Code. Untuk dibawah ini adalah To Do dari hal yang ditargetkan:
+Hallo, Di page ini saya akan membahas mengenai dokumentasi game retrace. yang saya pilih untuk dokumentasi ialah Game Design dan Code. Proyek game ini sepenuhnya dibuat dengan Godot Engine dan untuk dibawah ini adalah To Do dari hal yang ditargetkan:
 
 ### PLAYER
 - [x] Movement 4 arah
