@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/README.md",
+                "file": "documentation/code-and-ai/Enemy_AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Enemy_AI"
             }
           }
         ]
@@ -202,21 +202,23 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
-    "blog/SUMMARY.md",
+    "documentation/SUMMARY.md",
+    "documentation/README.md",
+    "documentation/code-and-ai/Player.md",
+    "documentation/code-and-ai/Enemy_AI.md",
+    "code-and-ai/Enemy.md",
+    "code-and-ai",
     "blog/README.md",
+    "blog/SUMMARY.md",
     "blog/2025/product-update-1.md",
     "blog/2025/product-update.md",
     "templates/TEMPLATES.md",
-    "documentation/code-and-ai/Enemy AI.md",
     "documentation/code-and-ai/docs/table/Take_Cover.md",
     "documentation/code-and-ai/Images/Take_Cover.png",
     "documentation/code-and-ai/Images/Take Cover.png",
-    "documentation/code-and-ai/Player.md",
     "documentation/code-and-ai/Images",
     "blog/2026/product-update-1.md",
     "blog/2026/product-update.md",
-    "documentation/SUMMARY.md",
-    "documentation/README.md",
     "documentation/code-and-ai/permissions.md",
     "documentation/code-and-ai/core-concepts.md",
     "templates",
@@ -238,7 +240,6 @@
     "blog/2025",
     "blog",
     "help-center/plans-billing/how-do-i-change-my-plan.md",
-    "help-center/plans-billing",
     "assets/object/normal_table.png",
     "assets/object/normal_table_horizontal.png",
     "assets/object/flipped_table_up_broken.png",
