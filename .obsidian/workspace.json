@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/SUMMARY.md",
+                "file": "documentation/SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,11 +202,13 @@
   },
   "active": "efaa41fe3618bf48",
   "lastOpenFiles": [
-    "home/README.md",
+    "api-reference/SUMMARY.md",
     "documentation/SUMMARY.md",
+    "documentation/README.md",
+    "home/README.md",
     "home/SUMMARY.md",
-    "changelog/SUMMARY.md",
     "media/SUMMARY.md",
+    "changelog/SUMMARY.md",
     "documentation/game-design/your-first-project.md",
     "documentation/game-design/quickstart.md",
     "documentation/game-design/getting-started.md",
@@ -217,9 +219,7 @@
     "documentation/code-and-ai/permissions.md",
     "documentation/code-and-ai/core-concepts.md",
     "documentation/code-and-ai",
-    "api-reference/SUMMARY.md",
     "api-reference",
-    "documentation/README.md",
     "media",
     "blog/2026/product-update-1.md",
     "blog/2026/product-update.md",

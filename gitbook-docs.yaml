@@ -42,7 +42,7 @@ site:
           path: media
           default: true
           content:
-            directory: ./api-reference
+            directory: ./media
     - type: section
       key: section-4
       title: Blog
@@ -56,4 +56,4 @@ site:
           path: blog
           default: true
           content:
-            directory: ./changelog
+            directory: ./blog
